@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+
+:root {
+  font-family: pinky-show;
+ margin: 0;
+ padding: 0;
+ background-color: aliceblue;
+}
+
+@font-face {
+  font-family:pinky-show ;
+  src: url(/src/assets/fonts/pinky_show/Pinky\ Show.ttf);
+}
+
